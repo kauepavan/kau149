@@ -11,4 +11,4 @@ Olá, eu sou o Kauê Pavan Silva! 👋
 * Git
 
 ---
-"Um passo de cada vez, mas sempre para frente."
+"Um passo de cada vez, mas sempre para frente e nunca para baixo."
